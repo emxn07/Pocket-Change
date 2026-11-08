@@ -17,7 +17,7 @@ The adventure covers Copperleaf Town, Route 1 and the first gym. It ends with a 
 You need **Python 3.10+**.
 
 ```bash
-git clone https://github.com/JollofMike/Pocket-Change.git
+git clone https://github.com/emxn07/Pocket-Change.git
 cd Pocket-Change
 python -m venv .venv
 ```
